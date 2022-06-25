@@ -7,7 +7,7 @@
 
 <b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.</b>
 
-[![](https://img.shields.io/badge/Ultroid-v0.5-blue)](#)
+[![](https://img.shields.io/badge/GwGxBot-v0.1-blue)](#)
 [![Stars](https://img.shields.io/github/stars/GWGYT/GwGxBot?style=flat-square&color=yellow)](https://github.com/GwGYT/GwGxBot/stargazers)
 [![Forks](https://img.shields.io/github/forks/GwGYT/GwGxBot?style=flat-square&color=orange)](https://github.com/GwGYT/GWGXBOT/fork)
 [![Size](https://img.shields.io/github/repo-size/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/TeamUltroid/Ultroid/)   
