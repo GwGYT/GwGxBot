@@ -2,10 +2,10 @@
   <https://te.legra.ph/file/aa097844020467e61fe3a.jpg>
 </p>
 <h1 align="center">
-  <b>Ultroid - UserBot</b>
+  <b>GwGxBot - UserBot</b>
 </h1>
 
-<b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.</b>
+<b>A stable pluggable Telegram userbot, based on Telethon.</b>
 
 [![](https://img.shields.io/badge/GwGxBot-v0.1-blue)](#)
 
