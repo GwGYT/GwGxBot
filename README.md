@@ -9,7 +9,7 @@
 
 [![](https://img.shields.io/badge/Ultroid-v0.5-blue)](#)
 [![Stars](https://img.shields.io/github/stars/GWGYT/GwGxBot?style=flat-square&color=yellow)](https://github.com/GwGYT/GwGxBot/stargazers)
-[![Forks](https://img.shields.io/github/forks/TeamUltroid/Ultroid?style=flat-square&color=orange)](https://github.com/TeamUltroid/Ultroid/fork)
+[![Forks](https://img.shields.io/github/forks/GwGYT/GwGxBot?style=flat-square&color=orange)](https://github.com/GwGYT/GWGXBOT/fork)
 [![Size](https://img.shields.io/github/repo-size/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/TeamUltroid/Ultroid/)   
 [![Python](https://img.shields.io/badge/Python-v3.10.2-blue)](https://www.python.org/)
 [![CodeFactor](https://www.codefactor.io/repository/github/teamultroid/ultroid/badge/main)](https://www.codefactor.io/repository/github/teamultroid/ultroid/overview/main)
